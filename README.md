@@ -1,2 +1,2 @@
 # NDMS
-Network device monitoring system  网络设备检测系统
+IT operation management system  IT运维管理系统
